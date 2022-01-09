@@ -3,7 +3,7 @@ When you assess whether to invest in an asset, you want to look not only at how 
 
 In this project, you will apply the Sharpe ratio to real financial data using pandas.
 
-#Project Tasks
+# Project Tasks
 1. Meet Professor William Sharpe
 2. A first glance at the data
 3. Plot & summarize daily prices for Amazon and Facebook
